@@ -1,0 +1,32 @@
+[
+  {
+    "word": "locksmith",
+    "type": "noun",
+    "meaning": "a person who can unlock doors",
+    "sentence": "I had to call a locksmith when I lost my door keys"
+  },
+  {
+    "word": "secondary",
+    "type": "adjective",
+    "meaning": "describes the school children go to from age 11",
+    "sentence": "Peter will be going to secondary school after the summer"
+  },
+  {
+    "word": "fence",
+    "type": "noun",
+    "meaning": "a wooden divider often between 2 houses",
+    "sentence": "Our fence was damaged by the storm last night"
+  },{
+    "word": "plumber",
+    "type": "noun",
+    "meaning": "a person who repairs water and gas pipes",
+    "sentence": "I called a plumber to fix a leak in my house"
+  },
+  {
+    "word": "saw",
+    "type": "noun",
+    "meaning": "a tool with sharp teeth for cutting wood",
+    "sentence": "You will need a saw to cut that tree down"
+    
+  }
+]
