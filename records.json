@@ -1,5 +1,17 @@
 [
   {
+    "word": "complicated",
+    "type": "adjective",
+    "meaning": "describes something that is very hard or difficult to solve",
+    "sentence": "The English language test was too complicated for me"
+  },
+  {
+    "word": "quickly",
+    "type": "adverb",
+    "meaning": "doing something at a fast speed",
+    "sentence": "We'll have to walk quickly to get there on time"
+  },
+  {
     "word": "locksmith",
     "type": "noun",
     "meaning": "a person who can unlock doors",
